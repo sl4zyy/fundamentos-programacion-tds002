@@ -1,14 +1,16 @@
-# fundamentos-programacion-tds002
+# Repositorio de Fundamentos de Programación
 
-Repositorio de trabajos de la asignatura Fundamentos de Programación (TDS002), ITLA.
+## Información Personal
 
-**Nombre:** Wilfre Mateo Medina
-**Matrícula:** 2026-0718
-**Sección:** _(completar)_
-**Carrera:** Tecnólogo en Ciberseguridad
+| Información Personal | Detalle |
+|---|---|
+| Nombre | Wilfre Mateo Medina |
+| Matrícula | 2026-0718 |
+| Sección | 3 |
+| Carrera | Tecnólogo en Ciberseguridad |
 
-## Índice de temas
+## Tareas y Prácticas
 
-| Semana | Carpeta | Tema |
+| Semana | Carpeta | Nombre de la tarea |
 |---|---|---|
-| 1 | [01-HolaMundo](01-HolaMundo/) | Hola Mundo y tarjeta de presentación |
+| Semana 1 | [01-HolaMundo](01-HolaMundo/) | Nivel 0 + Hola Mundo |
